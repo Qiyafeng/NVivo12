@@ -19,6 +19,6 @@
 
 ## 如何获取激活秘钥
 ### 激活秘钥为收费，价格为RMB35元/枚，扫以下二维码支付（支付宝），请将付款截图发送至邮箱theoneqiyafeng@163.com，获取激活教程和激活秘钥，您将在一个工作日内获得。
-![IMG_7669.png](http://ww1.sinaimg.cn/large/0061W0odly1gbhyfa57tkj30ao0a0gn6.jpg)
+![IMG_7696.jpg](http://ww1.sinaimg.cn/large/0061W0odly1gbhynooatij309o0a2ab7.jpg)
 
 
