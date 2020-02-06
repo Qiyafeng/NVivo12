@@ -16,7 +16,13 @@
 * 64位：链接:https://pan.baidu.com/s/1j2upsJowVjTibdmne2KIzA  密码:kk55
 * 32位：链接:https://pan.baidu.com/s/1pN7YrHIjw2FepVEbvCCdNg  密码:x9wq
 ![IMG_7668.PNG](http://ww1.sinaimg.cn/large/0061W0odly1gbhxrpig3kj30ak078mxc.jpg)
-
+### 自动编码时“无法下载和安装更新”的报错
+* 报错原因
+NVivo的服务器在国外，由于国内网络被墙的原因，NVivo无法连接上服务器进行下载和安装
+* 解决措施
+方法一：借助科学上网工具
+方法二：手动安装扩展包 
+扩展包下载链接:https://pan.baidu.com/s/1I7Jz4sgu104fb9h-Dkpl_w  密码:ylk3
 
 ## NVivo 12 Plus for Mac
 * 激活方式：秘钥激活
