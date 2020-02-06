@@ -17,12 +17,6 @@
 * 32位：链接:https://pan.baidu.com/s/1pN7YrHIjw2FepVEbvCCdNg  密码:x9wq
 ![IMG_7668.PNG](http://ww1.sinaimg.cn/large/0061W0odly1gbhxrpig3kj30ak078mxc.jpg)
 
-### 解决Win版自动编码“无法下载和安装更新”的报错
-2020-02-06更新
-
-NVivo的服务器在国外，由于网络被墙的缘故，NVivo在进行自动编码时无法从服务器上下载相应的扩展包，所以会出现该报错。在此提供该扩展包下载：
-
-链接:https://pan.baidu.com/s/10Lzr5XjydM6d0q-W4FAEDA  密码:lj6a
 
 ## NVivo 12 Plus for Mac
 * 激活方式：秘钥激活
