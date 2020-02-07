@@ -11,10 +11,7 @@
 #### NVivo 12
 * 64位：链接:https://pan.baidu.com/s/1wedhGUbjMpCM9v4dL9PN5Q  密码:l0p4
 * 32位：链接:https://pan.baidu.com/s/16y1tK2n1uuXdEpkUhMQX8w  密码:ehl5
-#### 增加NVivo 11包 
-2020-02-06更新
-* 64位：链接:https://pan.baidu.com/s/1j2upsJowVjTibdmne2KIzA  密码:kk55
-* 32位：链接:https://pan.baidu.com/s/1pN7YrHIjw2FepVEbvCCdNg  密码:x9wq
+
 ![IMG_7668.PNG](http://ww1.sinaimg.cn/large/0061W0odly1gbhxrpig3kj30ak078mxc.jpg)
 ### 自动编码时“无法下载和安装更新”的报错
 #### 报错原因
