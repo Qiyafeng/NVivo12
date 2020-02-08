@@ -31,6 +31,9 @@ NVivo的服务器在国外，由于国内网络被墙的原因，NVivo无法连�
 
 ## 如何获取激活秘钥
 ### 激活秘钥为收费，价格为RMB35元/枚，扫以下二维码支付（支付宝），请将付款截图、注明电脑系统（Win OR MAC）发送至邮箱theoneqiyafeng@163.com，获取激活教程和激活秘钥，您将在一个工作日内获得。
+### 如不放心，可通过淘宝平台交易，点击以下链接直达
+https://item.taobao.com/item.htm?spm=a2oq0.12575281.0.0.25911debHCehTp&ft=t&id=612341203760
+
 ![IMG_7696.jpg](http://ww1.sinaimg.cn/large/0061W0odly1gbhynooatij309o0a2ab7.jpg)
 
 
