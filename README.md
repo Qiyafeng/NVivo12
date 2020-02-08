@@ -30,6 +30,6 @@ NVivo的服务器在国外，由于国内网络被墙的原因，NVivo无法连�
 ![Xnip2020-01-30_19-10-40.png](http://ww1.sinaimg.cn/large/0061W0odly1gbhyg3dzglj30i80hktca.jpg)
 
 ## 淘宝平台交易获取激活秘钥
-### 激活秘钥35元/枚，可激活一台电脑，点击以下链接直达淘宝店铺
-https://item.taobao.com/item.htm?spm=a2oq0.12575281.0.0.25911debHCehTp&ft=t&id=612341203760
+### 激活秘钥35元/枚，点击以下链接直达淘宝店铺，通过淘宝旺旺沟通了解详情
+https://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-22276904466.2.609b380c6toMpv&id=612142595063
 
