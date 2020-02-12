@@ -31,5 +31,5 @@ NVivo的服务器在国外，由于国内网络被墙的原因，NVivo无法连�
 
 ## 激活秘钥付费说明
 ### 激活秘钥35元/枚，激活不成功全额退款，为充分保证您的权益，本交易在淘宝平台上进行，点击以下链接直达淘宝店铺，可通过淘宝旺旺进一步了解详情
-https://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-22276904466.2.609b380c6toMpv&id=612142595063
+https://item.taobao.com/item.htm?spm=a2oq0.12575281.0.0.5b9b1debPc9NLq&ft=t&id=612341203760
 
